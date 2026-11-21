@@ -1,8 +1,8 @@
 # SITMUN
 
-**SITMUN** is an open-source platform, licensed under the [EUPL 1.2](https://github.com/sitmun/sitmun/blob/main/LICENSE), that lets supramunicipal organisations offer map viewers and territorial information tools to the municipalities they serve. It is developed by the [SITMUN network](https://sitmun.org).
+**SITMUN** is an open-source platform, licensed under the [EUPL 1.2](https://github.com/sitmun/sitmun/blob/main/LICENSE), that lets supramunicipal organisations offer map viewers and territorial information tools to the municipalities they serve. It is developed by the [SITMUN network](https://sitmun.org). The documentation, in Spanish, is at [sitmun.github.io](https://sitmun.github.io).
 
-**SITMUN** es una plataforma de código abierto (licencia EUPL 1.2) que permite a las organizaciones supramunicipales ofrecer visores de mapas y herramientas de información territorial a sus municipios. La documentación está en castellano en [sitmun.github.io](https://sitmun.github.io).
+**SITMUN** es una plataforma de código abierto, con licencia [EUPL 1.2](https://github.com/sitmun/sitmun/blob/main/LICENSE), que permite a las organizaciones supramunicipales ofrecer visores de mapas y herramientas de información territorial a los municipios a los que dan servicio. La desarrolla la [Red SITMUN](https://sitmun.org). La documentación, en castellano, está en [sitmun.github.io](https://sitmun.github.io).
 
 ## Where to start
 
@@ -19,12 +19,13 @@
 
 - [sitmun](https://github.com/sitmun/sitmun): the SITMUN platform.
 - [sitmun.github.io](https://github.com/sitmun/sitmun.github.io): source of the documentation site.
+- [sitna-ats](https://github.com/sitmun/sitna-ats) and [sitna-npm-test](https://github.com/sitmun/sitna-npm-test): test projects for the [SITNA map API](https://github.com/sitna/api-sitna) that the viewer uses.
 
 [All active repositories](https://github.com/orgs/sitmun/repositories?q=archived:false)
 
 ## Archived repositories
 
-Until version 1.2.9, each component lived in its own repository. Since 1.3.0 they are part of [sitmun/sitmun](https://github.com/sitmun/sitmun), which imported their history:
+Until version 1.2.9, each component lived in its own repository (`sitmun-shared`, with the common libraries, was created after 1.2.9 and imported before 1.3.0). Since 1.3.0 they are part of [sitmun/sitmun](https://github.com/sitmun/sitmun), which imported their history:
 
 | Old repository | Now in sitmun/sitmun |
 | --- | --- |
