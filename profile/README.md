@@ -13,6 +13,7 @@
 | **Documentation** | [sitmun.github.io](https://sitmun.github.io) (in Spanish): installation, administrator manual, guides and architecture |
 | **Contributing** | [CONTRIBUTING.md](https://github.com/sitmun/sitmun/blob/main/CONTRIBUTING.md) |
 | **Bugs and questions** | [Issues in sitmun/sitmun](https://github.com/sitmun/sitmun/issues); for the documentation, [issues in sitmun.github.io](https://github.com/sitmun/sitmun.github.io/issues) |
+| **Security** | Report vulnerabilities privately, as the [security policy](https://github.com/sitmun/.github/blob/main/SECURITY.md) explains; do not open a public issue |
 | **Network and brand** | [The SITMUN network](https://sitmun.github.io/que-es-sitmun/red-sitmun/), its [governing bodies](https://sitmun.github.io/que-es-sitmun/red-sitmun/contacto/) and the [corporate identity](https://sitmun.github.io/que-es-sitmun/red-sitmun/identidad-corporativa/) (logos and manual) |
 
 ## Active repositories
