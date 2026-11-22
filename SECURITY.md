@@ -17,7 +17,7 @@ The per-component repositories archived in 2026 (`sitmun-backend-core`, `sitmun-
 
 **Do not open a public issue, discussion or pull request for a vulnerability.**
 
-Report it privately through GitHub:
+Report it privately through GitHub (you need a GitHub account):
 
 1. Go to the [Security tab of sitmun/sitmun](https://github.com/sitmun/sitmun/security).
 2. Click **Report a vulnerability**.
@@ -52,7 +52,7 @@ Los repositorios por componente archivados en 2026 (`sitmun-backend-core`, `sitm
 
 **No abras una incidencia, discusión o *pull request* públicos para notificar una vulnerabilidad.**
 
-Notifícala de forma privada a través de GitHub:
+Notifícala de forma privada a través de GitHub (se necesita una cuenta de GitHub):
 
 1. Ve a la [pestaña Security de sitmun/sitmun](https://github.com/sitmun/sitmun/security).
 2. Pulsa **Report a vulnerability**.
